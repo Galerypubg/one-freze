@@ -3,7 +3,7 @@ $Id: README.txt,v 1.3 2001/08/28 06:46:36 boisvert Exp $
 Package readme for: jdbm.*
 Package version: see VERSION
 Package status: beta
-Package URL: http://alyendemak.blogspot.com
+Package URL: https://alyendemak.blogspot.com
 Package License: BSD
 
 
