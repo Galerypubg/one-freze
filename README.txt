@@ -62,9 +62,9 @@ LIMITATIONS
 CONTRIBUTORS
 ============
 
-Cees de Groot <cg@cdegroot.com> wrote the original RecordManager 
+Cees de Groot <google.com> wrote the original RecordManager 
 implementation and started the project.
 
-Alex Boisvert <boisvert@intalio.com> added GDBM-like interface, 
+Alex Boisvert <google.com> added GDBM-like interface, 
 HTree and BTree implementations, caching, rollback functionality 
 and some bug fixing.
