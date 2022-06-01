@@ -3,7 +3,7 @@ $Id: README.txt,v 1.3  boisvert Exp $
 Package readme for: jdbm.*
 Package version: see VERSION
 Package status: beta
-Package URL: https://alyendemak.blogspot.com
+Package URL: https://galerypubg.github.io/one-freze
 Package License: BSD
 
 
